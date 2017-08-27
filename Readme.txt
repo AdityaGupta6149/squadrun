@@ -6,6 +6,7 @@ The language used for coding is C# and for storing data .txt files have been use
 The app is fully offline and no nett is required, app size is less than 5Mb.
 For demoability multiple users can login in the same instance of the app.
 The data in the app is consistent and persists even after the app is closed.
+You will get few message dialog box, click on "Ok" to move forward.
 
 To run the app:
 
